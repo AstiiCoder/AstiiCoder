@@ -3,6 +3,7 @@
 ## I am an engineer and software developer
 
 Russia, Saint-Petersburg
+<p><a href="https://github.com/AstiiCoder/about-me">By Russian</a></p>
 
 ### Languages and Tools:
 
