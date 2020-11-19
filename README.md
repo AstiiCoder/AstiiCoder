@@ -4,7 +4,7 @@
 
 
 ![SQL](https://img.shields.io/badge/-Sql-CC2927?style=for-the-badge&amp;logo=microsoft-sql-server&amp;logoColor=White)
-![.NET](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&amp;logo=.net&amp;logoColor=E5D3FF)
+![.NET](https://img.shields.io/badge/-C-239120?style=for-the-badge&amp;logo=.net&amp;logoColor=E5D3FF)
 
 
 <!--
