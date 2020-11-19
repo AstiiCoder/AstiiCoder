@@ -2,6 +2,8 @@
 
 ## I am an engineer and software developer
 
+Russia, Saint-Petersburg
+
 ### Languages and Tools:
 
 ![Delphi](https://img.shields.io/badge/-Delphi-ED1F35?style=for-the-badge&amp;logo=Embarcadero&amp;logoColor=White)
