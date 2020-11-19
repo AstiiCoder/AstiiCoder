@@ -1,4 +1,11 @@
-### Hi there 👋
+# About Me
+
+## I am an engineer and software developer
+
+
+![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&amp;logo=mysql&amp;logoColor=00648B)
+![.NET](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&amp;logo=.net&amp;logoColor=E5D3FF)
+
 
 <!--
 **AstiiCoder/AstiiCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
