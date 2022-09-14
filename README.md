@@ -15,7 +15,7 @@ Russia, Saint-Petersburg
 ![HTML](https://img.shields.io/badge/-Html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=E5D3FF)
 ![CSS](https://img.shields.io/badge/-Css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=E5D3FF)
 ![VBA](https://img.shields.io/badge/-VBA-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=White)
-
+![SCALA](https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&amp;logo=scala&amp;logoColor=White)
 
 <!--
 **AstiiCoder/AstiiCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
